@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://swamitusha:zTQV8Fa36prweVUy@cluster0-bzog9.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://swamitusha:zTQV8Fa36prweVUy@cluster0-bzog9.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "ThisismyJWTSecret"
 }
