@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://swamitusha:zTQV8Fa36prweVUy@cluster0-bzog9.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "ThisismyJWTSecret",
+    "githubID" : "f04ab2c6441f8828a0f9",
+    "githubSecret" : "bef52e2a2af06cda4ecbfbfa3f5c944a76bae681"
+}
